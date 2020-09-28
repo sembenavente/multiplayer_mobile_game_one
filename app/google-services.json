@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292331115667",
+    "firebase_url": "https://multiplayermobile-5d8ad.firebaseio.com",
+    "project_id": "multiplayermobile-5d8ad",
+    "storage_bucket": "multiplayermobile-5d8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292331115667:android:e3b4a2d9fbe0b41707a966",
+        "android_client_info": {
+          "package_name": "com.carrizane.multiplayergame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292331115667-8a9j91k04be2keb4a4173bdb9pju8un8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBCFabox-lLmyeKZ70bUDwny8huEhFl7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292331115667-8a9j91k04be2keb4a4173bdb9pju8un8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
